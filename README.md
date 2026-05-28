@@ -27,24 +27,6 @@ npm run dev
 
 Después de ejecutar este comando, abre la URL que muestre Vite en la terminal (en nuestro caso `http://localhost:5000`).
 
-## Compilar para producción
-
-Para generar los archivos optimizados de producción:
-
-```bash
-npm run build
-```
-
-Los archivos generados se ubicarán en la carpeta `dist`.
-
-## Vista previa de producción
-
-Para ver el sitio generado en modo producción localmente:
-
-```bash
-npm run preview
-```
-
 ## Notas
 
 - `node_modules` no se incluye en el repositorio.
