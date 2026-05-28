@@ -25,7 +25,7 @@ Para iniciar el servidor de desarrollo con recarga automática:
 npm run dev
 ```
 
-Después de ejecutar este comando, abre la URL que muestre Vite en la terminal (normalmente `http://localhost:5173`).
+Después de ejecutar este comando, abre la URL que muestre Vite en la terminal (en nuestro caso `http://localhost:5000`).
 
 ## Compilar para producción
 
